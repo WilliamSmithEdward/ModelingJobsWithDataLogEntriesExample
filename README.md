@@ -1,7 +1,7 @@
 # ModelingJobsWithDataLogEntriesExample
 Mentoring example, used to demonstrate scraping of data log entries on a list of jobs from a data source, then using extension methods to transform and output the data.
 
-## Code Documentation
+## Overview
 
 This code simulates a job processing system where jobs have a list of data logs. The main operations performed are:
 
